@@ -2,9 +2,9 @@
 layout 
 =====
 
-{% glowing-telegram/phone.md %}
+![Phone](glowing-telegram/phone.md)
 
-{ Image.md }
+![image](glowing-telegram/Image.md)
 
 { Links.md }
 
