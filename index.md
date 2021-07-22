@@ -2,20 +2,20 @@
 layout 
 =====
 
-{% include name.md %}
+{% Phone.md %}
 
 <br>
 
-{% include 02-image.md %}
+{% Image.md %}
 
 <br>
 
-{% include 03-links.md %}
+{% Links.md %}
 
 <br>
 
-{% include 04-lists.md %}
+{% Lists.md %}
 
 <br>
 
-{% include 05-emphasis.md %}
+{% table.md %}
