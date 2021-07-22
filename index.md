@@ -2,7 +2,7 @@
 layout 
 =====
 
-{%Phone.md%}
+[text](glowing-telegram/phone.md)
 
 { Image.md }
 
