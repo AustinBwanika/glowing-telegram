@@ -2,7 +2,7 @@
 layout 
 =====
 
-'{ /Phone.md }'
+{ Phone.md }
 
 {% Image.md %}
 
