@@ -4,10 +4,10 @@ layout
 
 { Phone.md }
 
-{% Image.md %}
+{ Image.md }
 
-{% Links.md %}
+{ Links.md }
 
-{% Lists.md %}
+{ Lists.md }
 
-{% table.md %}
+{ table.md }
