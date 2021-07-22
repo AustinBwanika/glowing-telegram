@@ -6,8 +6,8 @@ layout
 
 { % main Image.md %} 
 
-{% main Links.md % }
+{% main Links.md  %}
 
-{% main Lists.md % }
+{% main Lists.md %}
 
-{% main table.md % }
+{% main table.md %}
