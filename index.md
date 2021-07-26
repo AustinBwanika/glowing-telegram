@@ -2,20 +2,20 @@
 layout: default
 --- 
 
-{ % main Phone.md %}
+{ % root Phone.md %}
 
 <br> 
 
-{ % main Image.md %} 
+{ % root Image.md %} 
 
 <br> 
 
-{ % main Links.md  %}
+{ % root Links.md  %}
 
 <br> 
 
-{ % main Lists.md %}
+{ % root Lists.md %}
 
 <br> 
 
-{ % main table.md %}
+{ % root table.md %}
