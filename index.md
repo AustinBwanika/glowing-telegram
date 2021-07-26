@@ -1,5 +1,6 @@
-layout 
-=====
+---
+layout: default
+--- 
 
 { % main Phone.md %}
 
